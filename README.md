@@ -16,7 +16,6 @@ total amount of rating** and more
 
 ## Example of ML algorithms that i used
 
-
 ### KNN algorithm
 ### `getClosestBooks`
 Given a number N and a book of a name in the database,
