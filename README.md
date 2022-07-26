@@ -41,8 +41,8 @@ the Elbow Method algorithm.
 
 ### some more little stuff that i did, like:
 
-1) Create "score" column according to some scoring function that i built
+1) Create a "score" column according to some scoring function that i built
 2) working with matplotlib
-3) working with dataframes
+3) working with data frames
 
 
