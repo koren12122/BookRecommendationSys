@@ -28,3 +28,7 @@ information to a 2-D, and does a k-mean clusting. the number of cluster determin
 the Elbow Method algorithm.
 
 ![kmean-pca](kmean-pca.jpg)
+
+## Some more functionalities
+
+### function that showing the corrolation between two features, for example number of pages and average rating.
