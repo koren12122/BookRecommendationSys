@@ -17,11 +17,12 @@ total amount of rating** and more
 ## Example of ML algorithms that i used
 
 ### KNN algorithm
-### `getClosestBooks`
+### `getClosestBooks()`
 Given a number N and a book of a name in the database,
                        return list of N most similar books (with respect to the given book) on the database.
 
-### K-means
-
-### PCA
-
+### K-means and PCA
+### `booksDistributionCluster()`
+The function take the importent information of the books (number of pages, rating..) and reduce the dimention of this
+information to a 2-D, and does a k-mean clusting. the number of cluster determined by 
+the Elbow Method algorithm.
