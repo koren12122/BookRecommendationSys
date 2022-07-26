@@ -16,9 +16,9 @@ total amount of rating** and more
 
 ## Example of ML algorithms that i used
 
-# KNN algorithm
+### KNN algorithm
 
-# K-means
+### K-means
 
-# PCA
+### PCA
 
