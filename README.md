@@ -37,4 +37,6 @@ the Elbow Method algorithm.
 
 ### clusting the correlation between rating count and average rating, and dealing with outliers.
 
+![outliers](outliers.jpg)
+
 
