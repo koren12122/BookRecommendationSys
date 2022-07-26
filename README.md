@@ -18,10 +18,9 @@ total amount of rating** and more
 
 
 ### KNN algorithm
-### `2764 struct run`
-
-Represents a memory page.  
-A `run` points to the next available page/`run` (which is actually the *previous* page, because the first available is the last in the memory).
+### `getClosestBooks`
+Given a number N and a book of a name in the database,
+                       return list of N most similar books (with respect to the given book) on the database.
 
 ### K-means
 
