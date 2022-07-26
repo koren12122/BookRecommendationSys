@@ -34,3 +34,7 @@ the Elbow Method algorithm.
 ### function that showing the corrolation between two features, for example number of pages and average rating.
 
 ![pageNrating](pageNrating.jpg)
+
+### clusting the correlation between rating count and average rating, and dealing with outliers.
+
+
