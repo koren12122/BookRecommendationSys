@@ -35,8 +35,14 @@ the Elbow Method algorithm.
 
 ![pageNrating](pageNrating.jpg)
 
-### clusting the correlation between rating count and average rating, and dealing with outliers.
+### clusrting the correlation between rating count and average rating, and dealing with outliers.
 
 ![outliers](outliers.jpg)
+
+### some more little stuff that i did, like:
+
+1) Create "score" column according to some scoring function that i built
+2) working with matplotlib
+3) working with dataframes
 
 
