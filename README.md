@@ -32,3 +32,5 @@ the Elbow Method algorithm.
 ## Some more functionalities
 
 ### function that showing the corrolation between two features, for example number of pages and average rating.
+
+![pageNrating](pageNrating.jpg)
