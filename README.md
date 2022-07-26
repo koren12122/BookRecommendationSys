@@ -16,7 +16,12 @@ total amount of rating** and more
 
 ## Example of ML algorithms that i used
 
+
 ### KNN algorithm
+### `2764 struct run`
+
+Represents a memory page.  
+A `run` points to the next available page/`run` (which is actually the *previous* page, because the first available is the last in the memory).
 
 ### K-means
 
