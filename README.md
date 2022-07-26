@@ -13,3 +13,12 @@ This is still **ongoing project**.
 
 The dataset contain information of more than 45,000 books. every book have information like **number of pages, publication date, average rating,
 total amount of rating** and more
+
+## Example of ML algorithms that i used
+
+# KNN algorithm
+
+# K-means
+
+# PCA
+
