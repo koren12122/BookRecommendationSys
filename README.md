@@ -1,4 +1,4 @@
-# Book Recommendation Project
+# Machine Learning On Dataset Of Books
 
 ## About the project
 
