@@ -2,8 +2,8 @@
 
 ## About the project
 
-The purpose of this project is to create a book recommendation system
-using **Machine Learning** algorithms.
+The purpose of this project is to learn how to work with data frames and execute some 
+ **Machine Learning** algorithms.
 
 The data of the books is taken from a dataset of books. The file *books.csv* include the data.
 
